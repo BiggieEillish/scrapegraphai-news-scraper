@@ -1,0 +1,15 @@
+
+services:
+  scraper:
+    build: .
+    volumes:
+      - ./data:/app/data
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    environment:
+      - SCRAPEGRAPHAI_TELEMETRY_ENABLED=false
+      - OLLAMA_HOST=http://host.docker.internal:11434
+    deploy:
+      resources:
+        limits:
+          memory: 8G

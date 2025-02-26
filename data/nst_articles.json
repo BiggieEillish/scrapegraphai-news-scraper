@@ -1,0 +1,32 @@
+{
+    "scrape_timestamp": "2025-02-26T02:41:08.447359",
+    "sections_scraped": [
+        "https://www.thestar.com.my/news"
+    ],
+    "articles": [
+        {
+            "title": "Imminent end to proxy war",
+            "content": "The Star",
+            "publish_date": "2023-03-19",
+            "category": "Opinion",
+            "url": "https://www.thestar.com.my/news/2023/03/19/imminent-end-to-proxy-war",
+            "image_url": "https://assets.thestar.com.my/images/opinion/imminent-end-to-proxy-war.jpg"
+        },
+        {
+            "title": "A visionary ahead of the times",
+            "content": "The Star",
+            "publish_date": "2023-03-19",
+            "category": "Opinion",
+            "url": "https://www.thestar.com.my/news/2023/03/19/a-visionary-ahead-of-the-times",
+            "image_url": "https://assets.thestar.com.my/images/opinion/a-visionary-ahead-of-the-times.jpg"
+        },
+        {
+            "title": "Street cameras watching my back",
+            "content": "The Star",
+            "publish_date": "2023-03-19",
+            "category": "Letters to the Editor",
+            "url": "https://www.thestar.com.my/news/2023/03/19/street-cameras-watching-my-back",
+            "image_url": null
+        }
+    ]
+}
